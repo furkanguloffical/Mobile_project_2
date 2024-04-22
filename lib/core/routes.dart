@@ -10,7 +10,7 @@ import '../screens/static/about.dart';
 import '../screens/static/contact.dart';
 
 // GoRouter configuration
-final _router = GoRouter(
+final routes = GoRouter(
   routes: [
     GoRoute(
       path: '/',
